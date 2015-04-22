@@ -1,0 +1,29 @@
+{
+  "name": "gulp-es6-seed",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-wrap": "^0.11.0",
+    "gulp": "^3.8.10",
+    "gulp-inject": "^1.1.1",
+    "gulp-concat": "^2.5.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Michael Bromley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbromley/chromata/issues"
+  },
+  "homepage": "https://github.com/michaelbromley/chromata"
+}
